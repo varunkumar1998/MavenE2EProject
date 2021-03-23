@@ -16,4 +16,8 @@ public class RestTest {
 	public void basic3() {
 		System.out.println("test1");
 	}
+	@Test
+	public void basic4() {
+		System.out.println("test1");
+	}
 }
